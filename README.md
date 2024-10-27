@@ -1,2 +1,2 @@
 # allNotes
-notes app usinf fastapi and mongodb
+notes app using fastapi and mongodb
